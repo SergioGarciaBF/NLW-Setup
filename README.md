@@ -46,9 +46,9 @@ Por meio das aulas e atividades práticas, aprendi sobre uma variedade de métod
 - Retirar e ajustar elementos de um design feito no Figma para a página web;
 - Importação de diferentes arquivos de imagem;
 - Publicação do projeto pelo GitHub Pages;
-- Fixação de conceitos de HTML e CSS.
+- Fixação de conceitos de HTML e CSS
 
-Este projeto foi um bom empurrãozinho para a minha jornada de desenvolvedor. Para o futuro, pretendo adicionar funcionalidades extras com a finalidade de explorar o vasto da programação em busca de novos desafios!
+Este projeto foi um bom empurrãozinho para a minha jornada de desenvolvedor. Futuramente, pretendo adicionar funcionalidades extras com a finalidade de explorar o vasto da programação em busca de novos desafios!
 
 ## 🆙 Atualizações
 - 20/01/2023 - Publicação da versão inicial do projeto: versão das aulas
