@@ -39,6 +39,19 @@ O Habits é um app para ajudar a rastrear os hábitos.
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+## 🏹 Aprendizados e futuro...
+Essa foi a minha primeira participação em um NLW e gostei bastante do que me foi apresentado, estou ansioso para os próximos eventos de tecnologia!
+
+Por meio das aulas e atividades práticas, aprendi sobre uma variedade de métodos e ferramentas interessantes e esseciais para o desenvolvimento web, como: 
+- Retirar e ajustar elementos de um design feito no Figma para a página web;
+- Importação de diferentes arquivos de imagem;
+- Publicação do projeto pelo GitHub Pages;
+- Fixação de conceitos de HTML e CSS.
+
+Este projeto foi um bom empurrãozinho para a minha jornada de desenvolvedor. Para o futuro, pretendo adicionar funcionalidades extras com a finalidade de explorar o vasto da programação em busca de novos desafios!
+
+## 🆙 Atualizações
+- 20/01/2023 - Publicação da versão inicial do projeto: versão das aulas
 
 ## :memo: Licença
 
